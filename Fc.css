@@ -1,0 +1,17 @@
+button:focus{
+    background-color: lime;
+    color: white;
+}
+
+input:focus{
+    color: red;
+    border-color: limegreen;
+}
+
+div:focus{
+    background-color: yellow;
+}
+
+a:focus{
+    background-color: #0326b0;
+}
